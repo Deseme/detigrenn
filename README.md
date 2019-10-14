@@ -1,0 +1,2 @@
+# detigrenn
+Detigrenn mathematics game
